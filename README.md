@@ -1,18 +1,19 @@
 # TicTacoToe in Rust.
 
 ## Simple project for fun and learning Rust.
-
+Since this is a project for learning and fun, the implementation is certainly not as good as it can be
+or as idiomatic as it should be.
 Tic Tac Toe is here implemented as a command line program.
 The players need to specify the index of the field that they are setting their marker on.
 The following is an exmaple of how the board is encoded into indices.
 
 ```
 0 1 2
-_|_|_
+ | | 
 3 4 5
-_|_|_
+ | | 
 6 7 8
-_|_|_
+ | | 
 ```
 
 ## If you are unfamiliar with Tic Tac Toe
@@ -25,8 +26,8 @@ Here the player who is 'X' won.
 
 ```
 X|X|O
-X|O|_ 
-X|O|_
+X|O|  
+X|O| 
 ```
 
 Player 1 will play as 'X', and Player 2 will play as 'O'.
