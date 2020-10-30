@@ -1,4 +1,4 @@
-# TicTacoToe in Rust.
+# TicTacToe in Rust.
 
 ## Simple project for fun and learning Rust.
 Since this is a project for learning and fun, the implementation is certainly not as good as it can be
